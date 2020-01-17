@@ -16,3 +16,10 @@ This repo is an extraction from [archive.org](https://archive.org) for [dreamhea
 ## Copyright
 
 * Copyright of all posts in this repo belongs to the author of [dreamhead.blogbus.com](http://dreamhead.blogbus.com)
+
+
+## 2020.01.17 
+
+* 从gzzengwei/dreamhead-blogbus-archive Fork 项目到自己的仓库，更改自己的仓库名称，这样就不需要本地环境安装各种环境，就可以成功访问
+
+* 之前clone源代码到本地后，因为语言初次接触，环境配置各种坑，导致一致都没有成功，今天偶然发现通过fork的方式，完美解决，yeah！
